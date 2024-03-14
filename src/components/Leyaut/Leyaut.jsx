@@ -14,8 +14,8 @@ function Layout() {
         </Logo>
         <NavLinkWraper>
           <NavLink to="/">Home</NavLink>
-          <NavLink to="/Psychologists">Psychologists</NavLink>
-          {<NavLink to="/Favorites">Favorites</NavLink>}
+          <NavLink to="/psychologists">Psychologists</NavLink>
+          {<NavLink to="/favorites">Favorites</NavLink>}
         </NavLinkWraper>
 
         <AuthBatton>

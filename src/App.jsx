@@ -13,7 +13,6 @@ function App() {
 
   return (
     <>
-       
       <Routes>
         <Route path="/" element={<Leyaut />}>
           <Route index  element={<HomePage />} />
