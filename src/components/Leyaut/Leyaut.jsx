@@ -13,9 +13,9 @@ function Layout() {
           <LogoSpan>psychologists.</LogoSpan>services
         </Logo>
         <NavLinkWraper>
-          <NavLink to="/home">Home</NavLink>
+          <NavLink to="/">Home</NavLink>
           <NavLink to="/Psychologists">Psychologists</NavLink>
-          {/* {<NavLink to="/Favorites">Favorites</NavLink>} */}
+          {<NavLink to="/Favorites">Favorites</NavLink>}
         </NavLinkWraper>
 
         <AuthBatton>
