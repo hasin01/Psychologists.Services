@@ -157,4 +157,4 @@ a{
 }
 
 
-`;fi.createRoot(document.getElementById("root")).render(I.jsx(He.StrictMode,{children:I.jsxs(Cv,{basename:"/Psychologists.Services",children:[I.jsx(U0,{}),I.jsx(D0,{})]})}));
+`;fi.createRoot(document.getElementById("root")).render(I.jsx(He.StrictMode,{children:I.jsxs(Cv,{basename:"/Psychologists.Services/",children:[I.jsx(U0,{}),I.jsx(D0,{})]})}));
