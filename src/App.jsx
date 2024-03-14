@@ -12,7 +12,7 @@ import "./index.css"
 function App() {
 
   return (
-    <>
+   <>
       <Routes>
         <Route path="/" element={<Leyaut />}>
           <Route index  element={<HomePage />} />
@@ -21,8 +21,8 @@ function App() {
           <Route path="*" element={<NotFaund />} />
         </Route>
       </Routes>
-  
-    </>
+      </>
+
   )
 }
 
