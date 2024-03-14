@@ -133,7 +133,7 @@ font-weight: 500;
   margin-left: 130px;
 `,F0=De.div`
   font-weight: bold;
-`;function M0(){return I.jsxs(I.Fragment,{children:[I.jsx(Ya,{style:{outline:"1px solid rgba(25, 26, 21, 0.1)"},children:I.jsxs($0,{children:[I.jsxs(O0,{children:[I.jsx(I0,{children:"psychologists."}),"services"]}),I.jsxs(j0,{children:[I.jsx(ci,{to:"/",children:"Home"}),I.jsx(ci,{to:"/Psychologists",children:"Psychologists"}),I.jsx(ci,{to:"/Favorites",children:"Favorites"})]}),I.jsxs(F0,{children:[I.jsx(L0,{children:"Log In"}),I.jsx(T0,{children:"Registration"})]})]})}),I.jsx(Ya,{children:I.jsx(mv,{})})]})}function D0(){return I.jsx(I.Fragment,{children:I.jsx(gv,{children:I.jsxs(fn,{path:"/",element:I.jsx(M0,{}),children:[I.jsx(fn,{index:!0,element:I.jsx(km,{})}),I.jsx(fn,{path:"/favorites",element:I.jsx(xm,{})}),I.jsx(fn,{path:"/psychologists",element:I.jsx(Em,{})}),I.jsx(fn,{path:"*",element:I.jsx(Cm,{})})]})})})}const U0=z0`
+`;function M0(){return I.jsxs(I.Fragment,{children:[I.jsx(Ya,{style:{outline:"1px solid rgba(25, 26, 21, 0.1)"},children:I.jsxs($0,{children:[I.jsxs(O0,{children:[I.jsx(I0,{children:"psychologists."}),"services"]}),I.jsxs(j0,{children:[I.jsx(ci,{to:"/",children:"Home"}),I.jsx(ci,{to:"/psychologists",children:"Psychologists"}),I.jsx(ci,{to:"/favorites",children:"Favorites"})]}),I.jsxs(F0,{children:[I.jsx(L0,{children:"Log In"}),I.jsx(T0,{children:"Registration"})]})]})}),I.jsx(Ya,{children:I.jsx(mv,{})})]})}function D0(){return I.jsx(I.Fragment,{children:I.jsx(gv,{children:I.jsxs(fn,{path:"/",element:I.jsx(M0,{}),children:[I.jsx(fn,{index:!0,element:I.jsx(km,{})}),I.jsx(fn,{path:"/favorites",element:I.jsx(xm,{})}),I.jsx(fn,{path:"/psychologists",element:I.jsx(Em,{})}),I.jsx(fn,{path:"*",element:I.jsx(Cm,{})})]})})})}const U0=z0`
 
 
 
