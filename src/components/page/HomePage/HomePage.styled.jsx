@@ -3,7 +3,7 @@ import { ButtonStyle } from "../../Button/Button.steled"
 export const CardWraper = styled.div`
 display: flex;
 align-items: center;
-justify-content: center;
+justify-content: space-between;
 `
 
 export const Title = styled.h1`
@@ -12,8 +12,8 @@ font-weight: 600;
 font-size: 80px;
 line-height: 102%;
 letter-spacing: -0.02em;
-color: #191a15;
 width: 595px;
+margin-bottom: 20px;
 `
 export const ImgHome = styled.img`
 width: 465px;
@@ -24,6 +24,10 @@ border-radius: 30px;
 `
 export const TitleParagraf = styled.p`
 width: 450px;
+font-size: 18px;
+line-height: 1.33;
+font-weight: 500;
+margin-bottom: 40px;
 
 `
 
@@ -34,7 +38,7 @@ export const ButtonStarted = styled(ButtonStyle)`
   display: flex;
   gap:9px;
   font-size: 20px;
-
+  font-weight: 500;
 
 
   &:hover {

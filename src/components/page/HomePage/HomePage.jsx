@@ -4,7 +4,6 @@ import imageSvg1 from "../../../img/block.svg"
 import imageSvg2 from "../../../img/Group 58.svg"
 import imageSvg3 from "../../../img/Rectangle 34.svg"
 import { ButtonStarted, CardWraper, ImgHome, Title, TitleParagraf } from "./HomePage.styled"
-import { RiQuestionMark } from "react-icons/ri";
 
 import { GoArrowUpRight } from "react-icons/go";
 const HomePage = () => {

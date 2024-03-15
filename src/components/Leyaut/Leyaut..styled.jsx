@@ -61,5 +61,8 @@ export const NavLinkWraper = styled.div`
 `;
 
 export const AuthBatton = styled.div`
-  font-weight: bold;
+display: flex;
+gap:8px
+
+
 `;
