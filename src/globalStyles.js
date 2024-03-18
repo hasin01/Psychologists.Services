@@ -22,6 +22,7 @@ a{
     --main-hover-login-color: rgba(84, 190, 150, 0.2);
     --main-white-color: white;
     --main-logo-color:rgba(84, 190, 150, 1);
+    --main-Filter-color: #8a8a89;
 }
 
 

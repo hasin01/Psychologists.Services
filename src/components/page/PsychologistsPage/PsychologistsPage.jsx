@@ -1,9 +1,22 @@
-import React from 'react'
+import Selects from '../../Select/Select.jsx';
+import { FilterTitle } from './PsychologistsPage.styled.jsx';
 
 const PsychologistsPage = () => {
-  return (
-    <div>PsychologistsPage</div>
-  )
-}
 
-export default PsychologistsPage
+  
+
+
+  return (
+
+    <>
+
+    <FilterTitle>Filters</FilterTitle>  
+    <Selects/>
+
+    </>
+  );
+};
+
+export default PsychologistsPage;
+
+
